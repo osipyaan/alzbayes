@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HEARTMAP</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body class="bg-gray-50 text-gray-900">
+  <header class="bg-red-500 text-white p-6 text-center space-y-4">
+    <div class="flex justify-center">
+      <img src="heartmaplogo.png" alt="Heartmap Logo" width="100" height="100" />
+    </div>
+    <h1 class="text-3xl font-bold"> AlzBayes : Bayesian Inference of SNP Associations and Gene Interaction Networks in Alzheimer’s Disease Risk Loci
+    </h1>
+    <p class="text-lg"> Quantifying posterior probabilities of association for Alzheimer’s-related SNPs using Bayesian logistic regression.</p>
+  </header>
+
+  <main class="p-6 space-y-12">
+    
+    <!-- Section 1: Health Impact -->
+    <section>
+    </section>
+
+  </main>
+
+  <footer class="bg-gray-100 text-center p-4 mt-12">
+    <p> Independent research by Elena Osipyan | GitHub: 
+      <a href="https://osipyaan.github.io/alzbayes/" class="text-blue-600">osipyaan/heartmap</a>
+    </p>
+  </footer>
+</body>
+</html>
