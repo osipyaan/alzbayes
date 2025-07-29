@@ -1,2 +1,2 @@
-# alzbayes
-bayesian analysis for alzheimer's !
+# connectomecount
+analysis of the fly connectome
